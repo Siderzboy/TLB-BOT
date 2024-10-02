@@ -49,7 +49,7 @@ async def account_login(bot: Client, m: Message):
        Ashu.START_TEXT, reply_markup=InlineKeyboardMarkup(
             [
                     [
-                    InlineKeyboardButton("✜ ᴀsʜᴜᴛᴏsʜ ɢᴏsᴡᴀᴍɪ 𝟸𝟺 ✜" ,url="https://t.me/not_realX") ],
+                    InlineKeyboardButton(" ⏤͟͟͞͞𝙃𝘼𝙍𝙎𝙃 " ,url="https://t.me/not_realX") ],
                     [
                     InlineKeyboardButton("🦋 𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 🦋" ,url="https://t.me/xd_owns") ]                               
             ]))
